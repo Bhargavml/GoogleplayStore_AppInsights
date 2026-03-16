@@ -168,22 +168,21 @@ App-Insights-Analysis
 
 The following visualizations were generated during the analysis:
 
-- Category Distribution
-- Rating Distribution
-- Installs vs Rating Scatter Plot
-- Trend of App Updates Over Time
+Category Distribution
 
-```
 ![Category Distribution](screenshot1.png)
+
+Rating Distribution
 
 ![Rating Distribution](screenshot2.png)
 
+Installs vs Rating
+
 ![Installs vs Rating](screenshot3.png)
 
-![App Updates Trend](screenshot4.png)
-```
+App Updates Trend
 
----
+![App Updates Trend](screenshot4.png)
 
 ## Key Insights
 
